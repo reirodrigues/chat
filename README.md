@@ -22,7 +22,7 @@
 
 ## Preview
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/103211492/193034491-00dea37f-55f6-40f9-9fa3-1633c7dbeb20.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/103211492/196446071-91ace073-6d64-43f0-bd01-7a79e67b891c.gif)
 
 
 ## Quick start
@@ -31,10 +31,10 @@ This is a normal flutter app. You should follow the instructions in the [officia
 
 ## What's included
 
-- [google_fonts](https://pub.dev/packages/google_fonts)
-- [shared_preferences](https://pub.dev/packages/shared_preferences)
-- [intl](https://pub.dev/packages/intl)
-- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+- [cloud_firestore](https://pub.dev/packages/cloud_firestore)
+- [firebase_storage](https://pub.dev/packages/firebase_storage)
+- [google_sign_in](https://pub.dev/packages/google_sign_in)
+- [firebase_auth](https://pub.dev/packages/firebase_auth)
 
 
 ## Creators
